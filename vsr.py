@@ -46,7 +46,7 @@ def read_num():
         }
 
         number_operation = operations[num_operation[1]]
-# Выполнил Попов Н
+    # Выполнил Попов Н
     return [number, number_operation]
 
 
